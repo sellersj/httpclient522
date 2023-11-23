@@ -1,5 +1,9 @@
 # httpclient522
 
+This was fixed in 5.2.3
+See commit https://github.com/apache/httpcomponents-client/commit/6d60624cd3439f81030f7443e72cba21662e5d7b
+https://issues.apache.org/jira/browse/HTTPCLIENT-2307
+
 Issue when updating to 5.2.2 and getting an invalid proxy
 
 ```
